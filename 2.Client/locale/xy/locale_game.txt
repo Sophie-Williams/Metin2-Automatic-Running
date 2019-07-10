@@ -1,0 +1,2 @@
+AUTO_RUNING_ACTIVE	The automatic runing is active!
+AUTO_RUNING_DEACTIVE	The automatic runing is deactive!
